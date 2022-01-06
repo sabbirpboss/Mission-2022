@@ -1,0 +1,16 @@
+/* 
+1.Yeseva One:-
+font-family: 'Yeseva One', cursive;
+font-weight: regular;
+
+2.poppins:-
+font-family: 'Poppins', sans-serif;
+font-weight: regular, medium, semi-bold, bold;
+*/
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-family: "Yeseva One", cursive;
+}
