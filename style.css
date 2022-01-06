@@ -5,8 +5,8 @@ body {
 }
 
 /* =================================================================
-top banner area 
-=================================================================*/
+  top banner area 
+  =================================================================*/
 .flexible-container {
   display: flex;
   margin-bottom: 100px;
@@ -49,8 +49,8 @@ p {
 }
 
 /* =========================================================
-content area
-============================================================= */
+  content area
+  ============================================================= */
 .content-area h1 {
   text-align: center;
 }
@@ -60,9 +60,9 @@ content area
 }
 
 .image img {
-    width: 35%;
-    margin-top: 40px;
-    margin-left: 30px;
+  width: 35%;
+  margin-top: 40px;
+  margin-left: 30px;
 }
 
 h3 {
@@ -74,25 +74,92 @@ h3 {
   border-radius: 30px;
 }
 .average-width h3 {
-    margin-left: 40px;
+  margin-left: 40px;
 }
 
 .average-width p {
-    margin-left: 40px;
-    margin-top: 25px;
+  margin-left: 40px;
+  margin-top: 25px;
 }
 .first-content {
   margin-left: 10%;
   margin-right: 2%;
-  background-color: #EDF5F6;
+  background-color: #edf5f6;
 }
-.second-content{
-  background-color: #FFEEEE;
+.second-content {
+  background-color: #ffeeee;
 }
 .third-content {
   margin-right: 10%;
   margin-left: 2%;
-  background-color: #FFF4D6;
+  background-color: #fff4d6;
 }
-.main-content{
-    margin-top: 50px;
+.main-content {
+  margin-top: 50px;
+}
+
+/* =========================================================
+  working area
+  ============================================================= */
+.working-image-area {
+  width: 30%;
+  margin-left: 10%;
+}
+.working-image-area img {
+  border-radius: 30px;
+  height: 500px;
+  width: 100%;
+}
+.working-content-area {
+  width: 65%;
+  margin-right: 10%;
+  margin-left: 5%;
+}
+.working-content-area h2 {
+  font-size: 45px;
+  font-weight: bold;
+}
+.header-margin-top {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.header-margin-bottom {
+  margin-bottom: 10px;
+}
+.working-content-area p {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+/* =========================================================
+  working area
+  ============================================================= */
+.working-image-area-two {
+  width: 30%;
+  margin-right: 10%;
+}
+.working-image-area-two img {
+  border-radius: 30px;
+  height: 500px;
+  width: 100%;
+}
+.working-content-area-two {
+  width: 65%;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+.working-content-area-two h2 {
+  font-size: 45px;
+  font-weight: bold;
+}
+.header-margin-top-two {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.header-margin-bottom-two {
+  margin-bottom: 10px;
+}
+.working-content-area-two p {
+  margin-top: 15px;
+  font-size: 20px;
+}
