@@ -162,4 +162,33 @@ h3 {
 .working-content-area-two p {
   margin-top: 15px;
   font-size: 20px;
+} 
+
+/*================================================================
+ contact form 
+ ==============================================================*/
+
+
+
+
+
+
+
+/*==========================================================
+ footer area 
+ =========================================================*/
+.footer-area {
+  text-align: center;
+  background-color: #0b0d17;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+.footer-area h2 {
+  font-family: "Yeseva One", cursive;
+  font-size: 40px;
+}
+.footer-area p {
+  margin-top: 25px;
+  color: #d8dae0;
 }
