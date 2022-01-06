@@ -1,16 +1,48 @@
-/* 
-1.Yeseva One:-
-font-family: 'Yeseva One', cursive;
-font-weight: regular;
-
-2.poppins:-
-font-family: 'Poppins', sans-serif;
-font-weight: regular, medium, semi-bold, bold;
-*/
-
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
+  font-size: 12px;
+}
+
+/* =================================================================
+top banner area 
+=================================================================*/
+.top-banner {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+}
+#for-margin-top {
+  margin-top: 60px;
 }
 h1 {
   font-family: "Yeseva One", cursive;
+  font-size: 40px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+h1#differenr-color {
+  color: rgba(0, 128, 0, 0.541);
+  margin-top: 25px;
+}
+.left-border {
+  border-left: 5px solid #008000;
+  border-radius: 5px;
+}
+.half-width img {
+  width: 80%;
+}
+a.link-button {
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+  padding: 10px 40px;
+}
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
